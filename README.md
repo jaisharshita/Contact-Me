@@ -4,7 +4,7 @@ It is concerned with a contact form diagram which depicts the primary contact de
 
 PROJECT OVERVIEW
 Name: Contact Me Page Representation
-Program/Software Used: HTML
+TECH Used: HTML
 Functionality: To get to know more about HTML, practice creating it at a basic level and specifically create a layout for a contact form.
 
 FEATURES
